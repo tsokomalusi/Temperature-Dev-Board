@@ -34,6 +34,9 @@ The proposed schematic for this PCB Design challenge can be found within this re
 
 ### PCB LAYER (2 LAYER)
 
+PCB STACKUP (2 LAYER):
+L1: Signal/POWER
+L2: GND
 ![PCB_Layout](https://github.com/tsokomalusi/Temperature-Dev-Board/blob/main/Images/PCB-Layout.png)
 
 ## Manufacturing
