@@ -1,3 +1,6 @@
+# Project Requirements/Problem Statement
+[Challenge](https://github.com/tsokomalusi/Temperature-Dev-Board/blob/main/%F0%9F%A7%A9%20Course%201%20%E2%80%94%20Temperature%20Monitor%20Dev%20Board%20-%20Course%201%20%E2%80%94%20Temperature%20Monitor%20STM32%20Dev%20Board%20%C2%B7%20The%20PCB%20Learning%20Collective.pdf)
+
 # Temperature-Dev-Board
 
 STM32-based temperature monitoring board featuring:
@@ -36,3 +39,4 @@ The proposed schematic for this PCB Design challenge can be found within this re
 ## Manufacturing
 
 Gerber files are located in the manufacturing folder.
+
