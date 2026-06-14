@@ -13,7 +13,9 @@ STM32-based temperature monitoring board featuring:
 - MCU: STM32
 - Sensor: 10k NTC Thermistor
 - Display: OLED
-
+- 
+## Schematic
+The proposed schematic for this PCB Design challenge can be found within this repository
 ## Images
 
 ### BLOCK DIAGRAM
