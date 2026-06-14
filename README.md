@@ -17,6 +17,8 @@ STM32-based temperature monitoring board featuring:
 ## Images
 
 ### BLOCK DIAGRAM
+![Block Diagram](https://github.com/tsokomalusi/Temperature-Dev-Board/blob/main/Images/Block_Diagram.png)
+
 ### 3D MODEL (TOP & BOTTOM VIEW)
 
 ### PCB LAYER (2 LAYER)
