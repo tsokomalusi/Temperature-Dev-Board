@@ -16,6 +16,10 @@ STM32-based temperature monitoring board featuring:
 
 ## Images
 
+### BLOCK DIAGRAM
+### 3D MODEL (TOP & BOTTOM VIEW)
+
+### PCB LAYER (2 LAYER)
 (Add schematic and PCB screenshots)
 
 ## Manufacturing
