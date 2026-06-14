@@ -16,6 +16,8 @@ STM32-based temperature monitoring board featuring:
 - 
 ## Schematic
 The proposed schematic for this PCB Design challenge can be found within this repository
+[Schematic](https://github.com/tsokomalusi/Temperature-Dev-Board/blob/main/Temperature_Monitoring_Dev_Board.pdf)
+
 ## Images
 
 ### BLOCK DIAGRAM
